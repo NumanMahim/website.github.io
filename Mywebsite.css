@@ -1,0 +1,45 @@
+/* Reset some default styles for better control */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the navigation menu */
+
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Style the image gallery */
+.gallery {
+    padding: 20px;
+    text-align: center;
+}
+
+.image {
+    display: inline-block;
+    margin: 10px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
